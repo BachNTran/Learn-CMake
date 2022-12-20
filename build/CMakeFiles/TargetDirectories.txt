@@ -1,3 +1,0 @@
-C:/Users/btran/Documents/Learn CMake/build/CMakeFiles/hello.dir
-C:/Users/btran/Documents/Learn CMake/build/CMakeFiles/edit_cache.dir
-C:/Users/btran/Documents/Learn CMake/build/CMakeFiles/rebuild_cache.dir
